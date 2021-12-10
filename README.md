@@ -1,4 +1,4 @@
-# WordPress - [Visit the website][page]
+# WordPress
 
 ## Objectives
 This is an introduction to WordPress.
@@ -10,5 +10,7 @@ This is an introduction to WordPress.
 - Add a Wordpress contact form
 - Inject code to your Wordpress site
 - Customise fonts for Wordpress websites
+
+## [Visit the website][page]
 
 [page]: https://cakelounge189081120.wordpress.com/
